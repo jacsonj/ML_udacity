@@ -4,9 +4,9 @@ Machine Learning Nanodegree
 Install
 This project requires Python 2.7 and the following Python libraries installed:
 
-NumPy
-matplotlib
-scikit-learn
+* NumPy
+* matplotlib
+* scikit-learn
 
 You will also need to have software installed to run and execute an iPython Notebook
 
